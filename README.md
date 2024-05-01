@@ -11,7 +11,6 @@
     Segue um pequeno código como exemplo simples destinado a ilustrar como pode ser manipulado os dados diretamente na memória de um computador usando Assembly. Neste exemplo, o programa armazena o nome "Victoria" em memória, demonstrando o carregamento e armazenamento de valores individuais em locais de memória específicos.
     Este exemplo foi desenvolvido para demonstrar o básico da manipulação de dados em Assembly, oferecendo uma visão inicial sobre como os valores são carregados na memória, processados e armazenados. A escolha do nome "Victoria" como exemplo visa apenas ilustrar de forma clara e didática esses conceitos sem qualquer significado especial.
 
-----------------------------------------------------------------------------------------------------------
 ORG 000 / Define o início do programa no endereço de memória 000
 
 Load V
