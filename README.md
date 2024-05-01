@@ -66,7 +66,3 @@ Finalização:
     Halt: Termina a execução do programa.
 Reservas de Memória:
     Após o código de execução, há locais de memória reservados para cada letra do nome "Victoria", inicialmente definidos como zero (HEX 0).
-----------------------------------------------------------------------------------------------------------
-
-![alt text](<Captura de tela 2024-04-30 212717.png>)
-
