@@ -52,8 +52,6 @@ NAME_R, HEX 0
 NAME_I2, HEX 0
 NAME_A, HEX 0
 
-    *Estrutura do Código*
-
 Início e Inicialização:
     ORG 000: Define o início do programa no endereço de memória 000.
 Carregamento e Armazenamento:
