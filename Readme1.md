@@ -57,7 +57,7 @@ Halt / Termina execução
 
 V, HEX 56
 
-i, HEX 69]
+i, HEX 69
 
 c, HEX 63
 
@@ -112,3 +112,5 @@ Halt: Termina a execução do programa.
 Reservas de Memória:
 
 Após o código de execução, há locais de memória reservados para cada letra do nome "Victoria", inicialmente definidos como zero (HEX 0).
+
+![Captura de tela 2024-04-30 212717](https://github.com/ViZanella/Assembly_repo/assets/126624524/e7537e83-3430-4c10-a550-b875911b12eb)
