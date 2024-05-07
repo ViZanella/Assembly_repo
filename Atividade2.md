@@ -22,7 +22,7 @@ quanto o hardware do computador, permitindo uma programação extremamente efici
 da época.
 
 -----------------------------------------------------------------------------
-No código Assembly fornecido em  **Prints.asm ** é demonstrado como os registradores são utilizados para armazenar dados e instruções para realizar operações de entrada e saída.
+No código Assembly fornecido em  ***Prints.asm *** é demonstrado como os registradores são utilizados para armazenar dados e instruções para realizar operações de entrada e saída.
 
 1. Definição do Modelo de Memória e Alocação da Pilha:
 
